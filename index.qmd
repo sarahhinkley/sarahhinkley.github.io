@@ -1,7 +1,20 @@
 ---
-title: "sarahhinkley.github.io"
+title: "Sarah Hinkley"
+image: "images/headshot.jpeg"
+toc: false
+about: 
+    template: jolla
+    image-shape: round
+    image-width: 22em
+    links:
+        - text: LinkedIn
+          href: https://www.linkedin.com/in/sarahhinkley/
+          target: _blank
+        - text: Email
+          href: mailto:sahinkley22@gmail.com
+        - text: GitHub
+          href: https://github.com/sarahhinkley
+          target: _blank
 ---
 
-This is a Quarto website. Happy Fall!
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is where my bio will go!
